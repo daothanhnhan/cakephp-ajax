@@ -1,0 +1,2 @@
+# cakephp-ajax
+for ajax
